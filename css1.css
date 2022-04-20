@@ -1,0 +1,23 @@
+nav{
+    color: blue;
+    text-align: center;
+    background-color: bisque;
+    font-family:'Courier New', Courier, monospace;
+}
+#title{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.container {
+    border: 2px;
+    background-color: aqua;
+    
+    text-align: center;
+    margin: auto 0px;
+
+}
+
+
+img{
+    width: 100%;
+}
